@@ -27,6 +27,21 @@ BI Tools      →  Power BI (DAX), Tableau, Excel
 Cloud & Infra →  Azure (ADF, Data Lake), Databricks, Snowflake, Docker
 Data Skills   →  Data Modeling, ETL, Pipelines, Dashboards, ML (Clustering, Regression)
 ```
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-5A5A5A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ### 🤝 Let's Connect
 <p align="left"> <a href="https://www.linkedin.com/in/je-pulipati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> <a href="mailto:jesaikailash@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a> <a href="https://je-sai-kailash-pulipati.framer.website" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?logo=framer&logoColor=white"></a> </p>
