@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋!</h1>
+<h1 align="center">Hey There👋!...</h1>
 
 ![Github Homepage Banner](https://github.com/user-attachments/assets/fd234cc1-e69c-4d79-ba85-35fa760dadd2)
 
@@ -96,19 +96,14 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-
+---
 ### 🤝 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/je-pulipati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> 
+<p align="center"> <a href="https://www.linkedin.com/in/je-pulipati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> 
 <a href="mailto:pulipati.j@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a> 
 <a href="https://je-sai-kailash-pulipati.framer.website" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?logo=framer&logoColor=white"></a> </p>
 
 
-
+---
 ### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjsk02&show_icons=true&theme=radical)
 
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pjsk02&theme=radical)
