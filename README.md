@@ -10,9 +10,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE7743&center=true&vCenter=true&width=450&lines=Turning+Data+into+Decisions;Open+to+Internships+/+Co-Ops%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pjsk02&label=Profile%20views&color=0e75b6&style=flat-square)
-
+                               
+                                    
 ---
 
 ### 👨‍💻 About Me
@@ -38,7 +37,7 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 ### 🛠 Tech Stack
 
 #### 👨‍💻 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -48,7 +47,7 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 </p>
 
 #### 🧠 Data Analytics & Engineering
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/ETL-FF6F61?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Modeling-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/KPI%20Dashboards-F9AB00?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -57,7 +56,7 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 </p>
 
 #### 📊 BI & Visualization
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/ER--Studio-FF6F61?style=for-the-badge&logoColor=white"/>
@@ -67,7 +66,7 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 </p>
 
 #### ☁️ Big Data & Cloud Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/ADF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -78,7 +77,7 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 </p>
 
 #### 📚 Data Libraries & Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
@@ -89,7 +88,7 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 </p>
 
 #### 🛡 Certifications & Other Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
