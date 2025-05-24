@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE7743&center=true&vCenter=true&width=450&lines=Turning+Data+into+Decisions;Open+to+Internships+/+Co-Ops%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=pjsk02&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ---
 
