@@ -97,7 +97,9 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 
 
 ### 🤝 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/je-pulipati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> <a href="mailto:jesaikailash@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a> <a href="https://je-sai-kailash-pulipati.framer.website" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?logo=framer&logoColor=white"></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/je-pulipati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> 
+<a href="mailto:pulipati.j@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a> 
+<a href="https://je-sai-kailash-pulipati.framer.website" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?logo=framer&logoColor=white"></a> </p>
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=pjsk02.pjsk02)
 
