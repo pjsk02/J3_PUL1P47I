@@ -11,6 +11,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE7743&center=true&vCenter=true&width=450&lines=Turning+Data+into+Decisions;Open+to+Internships+/+Co-Ops%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat-square)
+
 ---
 
 ### 👨‍💻 About Me
@@ -101,7 +103,6 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 <a href="mailto:pulipati.j@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a> 
 <a href="https://je-sai-kailash-pulipati.framer.website" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?logo=framer&logoColor=white"></a> </p>
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=pjsk02.pjsk02)
 
 
 ### 📊 GitHub Stats
@@ -112,10 +113,3 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pjsk02&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjsk02&layout=compact&theme=radical)
-
-### 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=pjsk02&theme=radical)
