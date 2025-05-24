@@ -108,4 +108,4 @@ Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Dat
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjsk02&show_icons=true&theme=radical)
 
 ---
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=je-sai-kailash-pulipati&title=Visitors&color=29B5E8)
+![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=pjsk02&title=Visitors&color=29B5E8)
